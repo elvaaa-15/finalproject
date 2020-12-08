@@ -80,3 +80,9 @@ We are still in the progress of implementing our other feature of when the ball 
 #### What problems, if any, have you encountered?
 
 One of our members have not been actively particpating in this project. However, we are working to resolve this issue.
+
+# Pong 2.0
+
+## Final Project Video Link
+
+https://youtu.be/sui3rFKrFcc
